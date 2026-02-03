@@ -1,10 +1,7 @@
-**Repository State**
+**SerialBlaster**
 
-You will maintain a log of the current state of your repo in the main readme.md document. This log will show the location and detailed status of each coursework element, as they appear in the repository. Coursework that does not have this information will not be considered for grading.
+This program is used to test port saturation. Used with the ICA on USART RX Interrupts.
 
-An example entry is shown below:
+May be modified at any time.
 
-| ICA \#01 : The Examplenator |  |
-| :---- | :---- |
-| Location | ICAs\\ICA01\_ForRealThisTime |
-| State | Completed January 8th, 2025, but I had trouble with part X so I didn't finish it. |
+You may make any modifications you like to your own copy.
